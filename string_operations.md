@@ -102,3 +102,5 @@ Concatenation of str1 and str2 = ollehworld
    - Move to the end of first string.  
    - Copy characters from second string to first.  
    - Add `\0` at the end.  
+
+![img-alt](https://github.com/AyushSalvi1/VIT_DS/blob/main/images.jpeg?raw=true)
