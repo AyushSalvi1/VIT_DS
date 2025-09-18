@@ -1,5 +1,7 @@
 # String Operations in C (Without Using Library Functions)
 
+![img-alt](https://github.com/AyushSalvi1/VIT_DS/blob/main/images.jpeg?raw=true)
+
 ## Code
 
 ```c
